@@ -10,3 +10,10 @@ Clone the project and run:
 npm install
 npm start
 ```
+
+## Images
+
+Images are licensed under Creative Commons:
+
+Image is Figure 1 from *Predicting Metastasis Risk in Pancreatic Neuroendocrine Tumors Using Deep Learning Image Analysis* by Klimov Sergey, Xue Yue, Gertych Arkadiusz, Graham Rondell P., Jiang Yi, Bhattarai Shristi, Pandol Stephen J., Rakha Emad A., Reid Michelle D., Aneja Ritu
+https://www.frontiersin.org/articles/10.3389/fonc.2020.593211/full
